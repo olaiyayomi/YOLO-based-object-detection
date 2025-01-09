@@ -1,0 +1,7 @@
+train: D:\YOMTEK PROJECTS\my python\yolo\my_yolo_project\train
+val: D:\YOMTEK PROJECTS\my python\yolo\my_yolo_project\val
+
+nc: 2
+names:
+  0: hat
+  1: jacket
